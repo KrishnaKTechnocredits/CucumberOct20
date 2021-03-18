@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.ITFiles.Parallel01IT
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 10, Time elapsed: 65.484 sec <<< FAILURE! - in com.ITFiles.Parallel01IT
+And user full name display as "harsh patel1"(Scenario: Verify user able to login and can able to buy product)  Time elapsed: 0 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<harsh patel[]> but was:<harsh patel[1]>
+
+Scenario: Verify user able to login and can able to buy product  Time elapsed: 0 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<harsh patel[]> but was:<harsh patel[1]>
+
